@@ -53,6 +53,7 @@ $sql = "INSERT INTO `trip`.`trip` (`name`, `age`, `gender`, `email`, `phone`, `o
     <img class="bg" src="img.jpg" alt="RTU KOTA">
     <div class="container">
         <h1>Welcome to RTU Kota US Trip Form</h1>
+        <h1>GFG student chapter RTU</h1>
         <p>Enter your details and Submit this form to confirm your participation in the trip</p>
         <?php
         if($insert == true){
